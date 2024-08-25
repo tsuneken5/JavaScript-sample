@@ -1,0 +1,7 @@
+#cursor {
+  pointer-events: none;
+  position: fixed;
+  visibility: 'hidden';
+  border-radius: 50%;
+  z-index: 1000;
+}

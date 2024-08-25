@@ -1,2 +1,3 @@
 # 関数
-- uploadImageToCanvas : アプロードした画像をcanvasに貼り付ける
+- UPLOAD : アプロードした画像をcanvasに貼り付ける
+- DRAW : キャンパス上の画像に線を引く
